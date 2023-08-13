@@ -20,7 +20,7 @@
 			<div class="inner">
 
 				<!-- Logo -->
-				<a href="index.html" class="logo">
+				<a href="index.php" class="logo">
 					<span class="symbol"><img src="images/housy.svg" alt="" /></span><span class="title">Housy</span>
 				</a>
 
@@ -38,7 +38,7 @@
 		<nav id="menu">
 			<h2>Menu</h2>
 			<ul>
-				<li><a href="index.html">Projects</a></li>
+				<li><a href="index.php">Projects</a></li>
 				<li><a href="#footer">Contact Us</a></li>
 			</ul>
 		</nav>
